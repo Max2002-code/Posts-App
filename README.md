@@ -9,8 +9,8 @@
 ## Development server
 
 
-- Esegui in terminale : `npm i json-server@0.17.4`,`npm i json-server-auth`, `npm i @auth0/angular-jwt`,  `npm i concurrently`
-- Poi: `npm run fullstack` 
+- Esegui in terminale e scarica il package json: `npm i json-server@0.17.4`,`npm i json-server-auth`, `npm i @auth0/angular-jwt`,  `npm i concurrently`
+- sempre nel terminale eseguire: `npm run fullstack` 
 - Naviga su: `http://localhost:4200/`.
 - L'applicazione si ricaricherà automaticamente se modifichi qualsiasi cosa dai file sorgenti.
 
